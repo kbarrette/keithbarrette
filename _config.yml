@@ -1,0 +1,8 @@
+name: keithbarrette.net
+url: https://keithbarrette.net
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: default

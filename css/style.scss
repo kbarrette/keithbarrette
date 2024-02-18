@@ -1,0 +1,73 @@
+---
+---
+
+/* Colors based on my Jambeans vim color scheme: https://github.com/kbarrette/jambeans */
+$background_grey: hsl(0, 0%, 8%);
+$medium_grey : hsl(0, 0%, 20%);
+$off_white: hsl(60, 31%, 87%);
+$blue: hsl(219, 33%, 63%);
+$light_green: hsl(78, 29%,55%);
+$yellow_orange: hsl(33, 100%, 70%);
+
+a {
+  color: $blue;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  background-color: $medium_grey;
+  border-left: 2px solid $light_green;
+  margin: 0.5rem;
+  padding: 0.25rem 1rem;
+}
+
+body {
+  background-color: $background_grey;
+  color: $off_white;
+  font-family: Roboto, sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+code {
+  background-color: $medium_grey;
+}
+
+div.content {
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  max-width: 48rem;
+}
+
+div.footer {
+  font-size: 0.75rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  text-align: center;
+  width: 100%;
+}
+
+h1 {
+  border-bottom: 2px solid $light_green;
+  color: $yellow_orange;
+  font-weight: 300;
+}
+
+h2 {
+  color: $yellow_orange;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+}
+
+pre {
+  background-color: $medium_grey;
+  padding: 0.25rem;
+}
