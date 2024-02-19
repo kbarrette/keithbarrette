@@ -350,7 +350,7 @@ gestures for them to follow.
 * **Enemies:** 1 Lich
 
 The portal deposits the players in the churchyard overlooking the city.
-The are slightly disoriented but eventually realize where they are.
+They are slightly disoriented but eventually realize where they are.
 
 A pall of foul darkness hangs in the air, and they can see the town
 below them, looking derelict.
@@ -380,7 +380,7 @@ a Lich (**MM pg. 202**), and it is Avaricious.
 > Avaricious, seeing this figure, recognizes it and howls "No! I will not be
 > the person I was. I will not become this monster!"
 >
-> As she says this, her hand once again grasps pocket watch around her neck.
+> As she says this, her hand once again grasps the pocket watch around her neck.
 
 A **DC 15 Intelligence (Arcana) check** will reveal that the pocket watch is
 her phylactery.
