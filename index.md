@@ -12,3 +12,6 @@ I play mandolin in [Highway's End](https://highwaysend.com), my Americana band.
 [Basic harmonica for guitarists (and other musicians)]({% link writing/basic-harmonica-for-guitarists.md %}), a very short harmonica lesson for people who already play another instrument.
 
 [A Christmas Carol]({% link writing/a-christmas-carol.md %}), a Dickensian D&D adventure.
+
+
+Everything on this site was written by a human.
