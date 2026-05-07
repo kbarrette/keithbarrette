@@ -1,10 +1,9 @@
 ---
-copyright: 2017
-version: 1
 ---
 # A Christmas Carol
-A 5th edition D&D adventure for 5th level characters, based on a blog post by
+_A 5th edition D&D adventure for 5th level characters, based on a blog post by
 Mike "Gabe" Krahulik of [Penny Arcade](https://www.penny-arcade.com/).
+Originally written in 2017._
 
 ## Credits
 Thanks to:

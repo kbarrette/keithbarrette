@@ -1,6 +1,4 @@
 ---
-copyright: 2015
-version: 1
 ---
 # Basic harmonica for guitarists (and other musicians)
 _Originally published on medium.com on May 26, 2015_

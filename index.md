@@ -13,5 +13,3 @@ I play mandolin in [Highway's End](https://highwaysend.com), my Americana band.
 
 [A Christmas Carol]({% link writing/a-christmas-carol.md %}), a Dickensian D&D adventure.
 
-
-Everything on this site was written by a human.
