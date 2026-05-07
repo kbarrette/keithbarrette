@@ -9,10 +9,9 @@ $blue: hsl(219, 33%, 63%);
 $light_green: hsl(78, 29%,55%);
 $yellow_orange: hsl(33, 100%, 70%);
 
-/* Use the Areal font https://www.theamdash.com/ */
 @font-face {
-  font-family: 'Areal';
-  src: url('/fonts/Areal.otf') format('opentype');
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto.ttf') format('truetype');
 }
 
 a {
@@ -35,7 +34,7 @@ blockquote {
 body {
   background-color: $background_grey;
   color: $off_white;
-  font-family: Areal, serif;
+  font-family: Roboto, sans-serif;
   font-size: 1rem;
   font-weight: 300;
 }
